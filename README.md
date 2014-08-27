@@ -20,3 +20,7 @@ To rebuild the Addin with a new Hunspell dictionary (you will need Visual Studio
 License
 =======
 GNU GENERAL PUBLIC LICENSE v2
+
+Special Thanks
+==============
+Thanks to those who donated to make this a reality (we still need more funds to cover the cost! Donate here: http://goo.gl/6keUJW), as well as to firmusacode for his work on this project: https://www.freelancer.com/u/firmuscode.html
