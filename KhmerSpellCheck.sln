@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhmerSpellCheck", "KhmerSpellCheck\KhmerSpellCheck.csproj", "{B9536751-B477-40E7-A5FD-E63D5907E6BA}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KhmerSpellCheckSetup", "KhmerSpellCheckSetup\KhmerSpellCheckSetup.vdproj", "{98C72755-4496-46B9-AD49-44FB2709F777}"
