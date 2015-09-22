@@ -60,7 +60,7 @@ namespace KhmerSpellCheck
 
         private void frmKhmer_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void btnIgnoreAll_Click(object sender, EventArgs e)
